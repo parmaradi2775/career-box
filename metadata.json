@@ -1,0 +1,6 @@
+{
+  "name": "Career Box",
+  "description": "A centralized, modern portal for Indian government jobs, admit cards, exams eligibility, with integrated AI study planner and utility tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
